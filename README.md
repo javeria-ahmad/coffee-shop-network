@@ -374,7 +374,7 @@ Or simply click **Code → Download ZIP** and extract it.
 .
 ├── README.md
 ├── packet-tracer/
-│   └── coffeeshop-network.pkt
+│   └── Coffeeshop_Network.pkt
 ├── configs/
 │   ├── router-config.txt
 │   └── switch-config.txt
